@@ -1,0 +1,116 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#container{
+    padding:10px 10px;
+    background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+    height:70vh;
+    width:100%;
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    display: flex;
+    gap:50px;
+    margin:20px 20vh;
+    list-style-type: none;
+}
+ul>li>a{
+    font-size:20px;
+    color:white;
+    text-decoration: none;
+}
+.logo{
+    margin:20px 20vh;
+    font-size: 18px;
+    color:white;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.content h1{
+    text-align: center;
+    font-size: 15vh;
+    color:white;
+}
+.content h2{
+    text-align: center;
+    font-size: 5vh;
+    color:white;
+    margin-bottom: 20px;
+}
+.search-bar input{
+    outline:none;
+    margin:0px !important;
+    padding-left: 20px;
+    border: none;
+    font-size: 1.4rem;
+    border-radius:0px !important;
+}
+.card1{
+
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #838080;
+    width:550px;
+    margin: 30px 10px;
+}
+.card1>img{
+    border-radius: 10px 10px;
+}
+.content2 .container{
+    margin-top: 120px;
+}
+.content .container>img{
+    height:100px;
+    width:500px;
+    align-content: center;
+    margin-left: 321px;
+    margin-bottom: 30px;
+}
+.tag{
+    border-radius: 10px;
+    background-color:white;
+    width:900px;
+    height:55px;
+    display: flex;
+    justify-content:unsafe;
+}
+.font-icon{
+    margin-top: 12px;
+    font-size: 15px;
+    opacity: 0.5;
+}
+.font-icon:nth-of-type(1){
+    color:crimson;
+}
+.font-icon:nth-of-type(2){
+    color:#838080;
+    border-left:2px solid  #575555;
+    margin-bottom: 10px;
+}
+.dishes{
+    background-color: rgb(155, 227, 227);
+    justify-content: center;
+    display: flex;
+    gap:20px;
+    color:rgb(19, 18, 18);
+}
+.resturantContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color:blue;
+    color:white;
+}
+.available__resturant{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap:50px;
+}

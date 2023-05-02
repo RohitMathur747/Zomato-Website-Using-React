@@ -1,0 +1,111 @@
+[
+    {
+        "resturantName":"Meghana",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"7:00 AM"
+    },
+
+    {
+        "resturantName":"KFC",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"Foodies",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"Golu sweets",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"Express resturant",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"Rohani",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"Punjabi",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"King resturant",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"Raju food",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    },
+
+    {
+        "resturantName":"Fast Food Store",
+        "Availabledish":[{"foodName":"Veg Biriyani","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/e3e/3cbd6cf28731f5dadde865a4db130e3e.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger Biriyani","Price":100,"img":"https://b.zmtcdn.com/data/dish_photos/651/b4ed59ec4791ecd6e9aab782944e5651.jpg?output-format=webp","rating":4},
+        {"foodName":"Paneer Biriyani","Price":250,"img":"https://b.zmtcdn.com/data/dish_photos/021/ad7604f04aa5ee8674d028795f467021.jpg?output-format=webp","rating":5},
+        {"foodName":"Burger","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/9fb/df6bf37f9739b6b481822e4b9385c9fb.jpg?output-format=webp","rating":4},
+        {"foodName":"fast food","Price":200,"img":"https://b.zmtcdn.com/data/dish_photos/35c/67615d0a35facdbc4c83094659eb935c.jpg?output-format=webp","rating":5}],
+        "closingTime":"10:00 PM",
+        "openingTime":"10:00 AM"
+    }
+]
